@@ -1,0 +1,25 @@
+/* mobile nav resposive part start  */
+@media (max-width: 576px) {
+    .navbar_main{
+        display: none;
+    }
+    #mobile_nav{
+        display: block;
+    }
+
+    .nav_mobile{
+                display: block;
+                padding: 10px 0px;
+    }
+    .nav_middle{
+        display: none;
+    }
+    .nav_right {
+        width: 100%;
+        position: relative;
+
+    }
+
+}
+
+/* mobile nav resposive part end */
